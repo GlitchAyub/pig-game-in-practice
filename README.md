@@ -1,0 +1,2 @@
+# pig-game-in-practice
+game rules: - the game has 2 players, playing in the rounds. - in each turn a player rolls a dice as many times as he wishes. each result get added to his round score - but, if the player rolls a1, all his round score get lost.after that, its the next player's turn -the player can choose to 'hold' which means that his round score gets added to his global score. after that,  its the next player's turn -the first player to reach 100 points on global score win the game
